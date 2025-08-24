@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+next
+react
+react-dom
 
 # testing
 /coverage
@@ -34,3 +37,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+npm install next react react-dom
